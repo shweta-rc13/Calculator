@@ -11,11 +11,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
+ 
 }
 .calculator{
-    background: #3a4452;
+    background: #2a2931;
     padding: 20px;
     border-radius: 8px;
+    border-radius: 50px;
 }
 .calculator form input{
     border: 0;
