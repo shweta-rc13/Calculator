@@ -35,6 +35,8 @@ form .display{
     display: flex;
     justify-content: flex-end;
     margin: 20px 0;
+    box-sizing: border-box;
+    border: #2a2931 1px solid; 
 }
 form .display input{
     text-align: right;
