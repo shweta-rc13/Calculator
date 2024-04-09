@@ -51,3 +51,14 @@ form .display input{
  form input .operator{
     color: #33ffd8;
 }
+.about ul{
+    background: #2a2931;
+    padding: 50px;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border-radius: 5px;
+
+}
