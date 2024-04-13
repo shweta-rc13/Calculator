@@ -22,8 +22,8 @@
 .calculator form input{
     border: 0;
     outline: 0;
-    width: 6vmax;
-    height: 6vh;
+    width: 60px;
+    height: 60px;
     border-radius: 10px;
     box-shadow: -8px -8px 15px rgba(255,255,255, 0.1), 5px 5px 15px rgb(0, 0, 0, 0.2);
     background: transparent;
